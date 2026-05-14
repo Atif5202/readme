@@ -1,6 +1,3 @@
-# À propos de moi
-Présentation personnelle et professionnelle contenant mon profil développeur, mes compétences techniques, mes projets et mon univers de développement.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=RAKOTONIRAINY%20Tafitarimanana%20Dina&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 </p>
