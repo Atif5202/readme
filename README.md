@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Développeur Full Stack débutant passionné par le développement web, mobile, desktop et la création d’applications modernes, performantes et intuitives.
+Développeur Full Stack junior passionné par le développement web, mobile, desktop et la création d’applications modernes, performantes et intuitives.
 </p>
 
 <p align="center">
