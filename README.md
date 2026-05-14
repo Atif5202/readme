@@ -19,7 +19,7 @@ Je développe des projets modernes tout en améliorant continuellement mes comp�
 
 # À propos de moi
 
-- 💻 Développeur Full Stack débutant spécialisé dans la création d’applications web modernes et dynamiques
+- 💻 Développeur Full Stack junior spécialisé dans la création d’applications web modernes et dynamiques
 - 📱 Développeur passionné par les technologies web, mobile et desktop
 - 🎨 Passionné par le design UI/UX et les interfaces modernes et intuitives
 - ⚙️ Apprenant continuellement de nouvelles technologies et bonnes pratiques de développement
@@ -124,6 +124,10 @@ Je développe des projets modernes tout en améliorant continuellement mes comp�
 - Responsive Design
 
 ### Tools & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
 
 - Git & GitHub
 - VS Code
