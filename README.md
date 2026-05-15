@@ -219,11 +219,11 @@ Application moderne de gestion de bibliothèque développée avec React et Larav
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/[TON_PROFILE]">
+<a href="https://www.facebook.com/atifrakotonirainy">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/[TON_NUMERO]">
+<a href="https://wa.me/261346512724">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
