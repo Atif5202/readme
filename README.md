@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=RAKOTONIRAINY%20Tafitarimanana%20Dina&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<h1 align="center">Salut, Moi c'est RAKOTONIRAINY Tafitarimanana Dina</h1>
+<h1 align="center">Bonjour, Moi c'est RAKOTONIRAINY Tafitarimanana Dina</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+%7C+Mobile+%7C+Desktop+Developer;React+%7C+Laravel+%7C+MySQL;UI%2FUX+Design+Enthusiast;Passionné+par+les+nouvelles+technologies"/>
@@ -211,7 +211,7 @@ Application moderne de gestion de bibliothèque développée avec React et Larav
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[LIEN_PORTFOLIO]">
+<a href="#">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
