@@ -150,7 +150,7 @@ Je développe des projets modernes tout en améliorant continuellement mes comp�
 ---
 # 🚀 Featured Project
 
-## 📚 Library Management System
+## 📚 Library Management System (Application de gestion de bibliothèque)
 
 Application moderne de gestion de bibliothèque développée avec React et Laravel.
 
