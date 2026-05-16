@@ -191,6 +191,8 @@ Application moderne de gestion de bibliothèque développée avec React et Larav
 - Tablette
 - Mobile
 
+### Lien du projet :
+https://libratif.netlify.app/
 ---
 
 # 🎯 Objectifs 2026
