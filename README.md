@@ -227,13 +227,6 @@ Application moderne de gestion de bibliothèque développée avec React et Larav
 ---
 
 <div align="center">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="20"/> Lien du projet
-
-<a href="https://libratif.netlify.app/">
-  <img src="https://img.shields.io/badge/Visiter%20le%20Projet-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -274,10 +267,6 @@ Application moderne de gestion de bibliothèque développée avec React et Larav
 
 <a href="https://www.linkedin.com/in/tafitarimanana-rakotonirainy-668777409/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tafitarimanana.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://github.com/atif5202">
